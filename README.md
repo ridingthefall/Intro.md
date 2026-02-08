@@ -1,18 +1,20 @@
-# Evangeline Chen – Product Marketing & GTM Operator
+# Evangeline Chen – Technical & GTM Portfolio
 
-Hi! I’m Evangeline, a growth-minded product marketing professional with experience launching, positioning, and scaling SaaS and consumer products. I’m passionate about AI, creative technology, and driving adoption through data-driven strategies.
+Welcome! This repository showcases my experience combining data-driven marketing, product growth, and technical skills.
 
-## 🌟 Skills & Tools
-- Product Marketing & GTM Strategy
-- Growth & Lifecycle Marketing
-- Data Analysis (Python, basic SQL)
-- SaaS & Consumer Tech
-- SEO, Analytics & Dashboarding
-- Cross-functional Collaboration
+## About Me
+- GTM-focused recruiter and revenue operator with experience in SaaS, high-growth tech, and financial services.
+- Passionate about AI, consumer apps, and leveraging data to drive adoption and retention.
+- Strong experience with Python, Excel, and workflow automation to support product and marketing strategies.
 
-## 💼 Projects & Examples
-- [User Engagement Analysis Script](./growth_analysis_example.py) – A sample Python script analyzing engagement data.
-- [Portfolio & Product Work](https://evangelinetravels.com) – Marketing, creative, and campaign work.
+## Sample Project: Growth Insights
+- Analyzed engagement metrics for hypothetical SaaS campaigns.
+- Implemented data-driven strategies to optimize retention and activation.
+- [Include a Python snippet or small CSV + script demonstrating data analysis.]
 
-## 📫 Contact
-- Email: evangelinechen@alumni.usc.edu
+## Skills
+- Python (Basic), HTML (Basic), SEO, Tableau, Salesforce, Google Workspace
+- Project management, GTM strategy, and cross-functional collaboration
+
+## Portfolio
+- [Evangelinetravels.com](https://www.evangelinetravels.com)
