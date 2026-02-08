@@ -1,6 +1,7 @@
-# Intro.md
-# Evangeline Chen - Product / Growth Marketing
+# Evangeline Chen – Product Marketing & GTM Operator
 
-This repository is a place to share my experiments, ideas, and work related to AI, growth, and product marketing. 
+Hi! I’m Evangeline, a growth-minded product marketing professional with experience launching, positioning, and scaling SaaS and consumer products. I’m passionate about AI, creative technology, and driving adoption through data-driven strategies.
 
-Check out my portfolio and projects here: [evangelinetravels.com](https://evangelinetravels.com)
+- 🌐 Portfolio: [evangelinetravels.com](https://www.evangelinetravels.com)
+- 🛠 Skills: Product marketing, growth strategy, data analysis, Python & basic HTML, SaaS GTM
+- 📫 Contact: evangelinechen@alumni.usc.edu
