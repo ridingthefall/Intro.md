@@ -1,4 +1,4 @@
-# Simple example: analyze user engagement data
+# Growth Marketing Example: Analyze user engagement
 
 users = [
     {"name": "Alice", "engaged": True},
